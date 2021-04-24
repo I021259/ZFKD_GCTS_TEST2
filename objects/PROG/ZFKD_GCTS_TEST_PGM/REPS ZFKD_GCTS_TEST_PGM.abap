@@ -4,3 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZFKD_GCTS_TEST_PGM.
+*Comment by Fukuda for Test 2
