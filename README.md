@@ -1,2 +1,2 @@
-# ZFKD_GCTS_TEST1
-Test Repository 1 for gCTS
+# ZFKD_GCTS_TEST2
+Test Repository 2 for gCTS
