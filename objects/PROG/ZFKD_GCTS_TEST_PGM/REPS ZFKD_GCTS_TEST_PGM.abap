@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZFKD_GCTS_TEST_PGM.
-*Comment by Fukuda for Test 2 for Tamakisan
+*Comment by Fukuda on 09112316
